@@ -4,6 +4,11 @@
       "id": 1,
       "name": "raza",
       "occupation":"Developer"
+   },
+   { 
+      "id": 2,
+      "name": "numan",
+      "occupation":"Developer"
    }
 }
     
