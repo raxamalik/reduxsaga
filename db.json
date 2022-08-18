@@ -1,7 +1,6 @@
-
-    { 
-       "id": 1,
-      "name": "raza",
-      "occupation":"Developer"
-    }
+{ 
+   "id": 1,
+   "name": "raza",
+   "occupation":"Developer"
+}
     
