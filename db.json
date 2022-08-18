@@ -1,9 +1,9 @@
 {  
    "users":
-   [{ 
+   { 
       "id": 1,
       "name": "raza",
       "occupation":"Developer"
-   }]
+   }
 }
     
