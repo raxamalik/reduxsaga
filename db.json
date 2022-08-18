@@ -1,6 +1,9 @@
-{ 
-   "id": 1,
-   "name": "raza",
-   "occupation":"Developer"
+{  
+   "users":
+   [{ 
+      "id": 1,
+      "name": "raza",
+      "occupation":"Developer"
+   }]
 }
     
